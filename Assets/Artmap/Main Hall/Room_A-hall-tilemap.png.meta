@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: c7ed5b3fd25e9bd4c8cfa7996268d8a9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_A-hall-tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 964
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a989977d31b34449ee5457dba22bef
+      internalID: -475233993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_A-hall-tilemap_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b61b3c6a47b642b8739baa93afba2
+      internalID: 650500437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_A-hall-tilemap_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef20b3ca679bd468cbdfe114cff9f2
+      internalID: -422998103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_A-hall-tilemap_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6831226ef606488647f3b9e43af2e
+      internalID: 1554879873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_A-hall-tilemap_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836239738fb581499ec19878bdda782
+      internalID: -372099270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room_A-hall-tilemap_0: -475233993
+      Room_A-hall-tilemap_1: 63269495
+      Room_A-hall-tilemap_10: 1854289379
+      Room_A-hall-tilemap_100: 1551192229
+      Room_A-hall-tilemap_101: -2065984298
+      Room_A-hall-tilemap_102: 36604224
+      Room_A-hall-tilemap_103: 586870705
+      Room_A-hall-tilemap_104: -1848926640
+      Room_A-hall-tilemap_105: 2006761154
+      Room_A-hall-tilemap_106: 292229543
+      Room_A-hall-tilemap_107: 1798085331
+      Room_A-hall-tilemap_108: -1443024926
+      Room_A-hall-tilemap_109: -720786894
+      Room_A-hall-tilemap_11: 1339881352
+      Room_A-hall-tilemap_110: -23797425
+      Room_A-hall-tilemap_111: -587739980
+      Room_A-hall-tilemap_112: -1869092904
+      Room_A-hall-tilemap_113: 166993034
+      Room_A-hall-tilemap_114: -1683429462
+      Room_A-hall-tilemap_115: 2056647850
+      Room_A-hall-tilemap_116: -1894124266
+      Room_A-hall-tilemap_117: -577448706
+      Room_A-hall-tilemap_118: -122547994
+      Room_A-hall-tilemap_119: 1575763137
+      Room_A-hall-tilemap_12: 1621265229
+      Room_A-hall-tilemap_120: 548512959
+      Room_A-hall-tilemap_121: -1840468519
+      Room_A-hall-tilemap_122: 1809053323
+      Room_A-hall-tilemap_123: -1161366268
+      Room_A-hall-tilemap_124: -1055282223
+      Room_A-hall-tilemap_125: 177804931
+      Room_A-hall-tilemap_126: -1677929162
+      Room_A-hall-tilemap_127: -1060269519
+      Room_A-hall-tilemap_128: 1916590658
+      Room_A-hall-tilemap_129: 877037892
+      Room_A-hall-tilemap_13: 812299993
+      Room_A-hall-tilemap_130: 1351678141
+      Room_A-hall-tilemap_131: -1711645613
+      Room_A-hall-tilemap_132: 1564601121
+      Room_A-hall-tilemap_133: -30971254
+      Room_A-hall-tilemap_134: -1816379801
+      Room_A-hall-tilemap_135: -640137821
+      Room_A-hall-tilemap_136: 200191873
+      Room_A-hall-tilemap_137: 837672220
+      Room_A-hall-tilemap_138: -1953191725
+      Room_A-hall-tilemap_139: 2105721596
+      Room_A-hall-tilemap_14: 1636905319
+      Room_A-hall-tilemap_140: -1765250111
+      Room_A-hall-tilemap_141: -792463547
+      Room_A-hall-tilemap_142: 1117215090
+      Room_A-hall-tilemap_143: -22161567
+      Room_A-hall-tilemap_144: 2063946947
+      Room_A-hall-tilemap_145: 2096441738
+      Room_A-hall-tilemap_146: 446590029
+      Room_A-hall-tilemap_147: -1299234082
+      Room_A-hall-tilemap_148: 379423512
+      Room_A-hall-tilemap_149: -2043402173
+      Room_A-hall-tilemap_15: -122567889
+      Room_A-hall-tilemap_150: 856713174
+      Room_A-hall-tilemap_151: 1732832048
+      Room_A-hall-tilemap_152: -595141020
+      Room_A-hall-tilemap_153: 1188549540
+      Room_A-hall-tilemap_154: -1605786954
+      Room_A-hall-tilemap_155: -919776155
+      Room_A-hall-tilemap_156: 1679206098
+      Room_A-hall-tilemap_157: 1469278667
+      Room_A-hall-tilemap_158: -1715568626
+      Room_A-hall-tilemap_159: 1499102850
+      Room_A-hall-tilemap_16: -1609936471
+      Room_A-hall-tilemap_160: -272248034
+      Room_A-hall-tilemap_161: -1212498589
+      Room_A-hall-tilemap_162: -139491484
+      Room_A-hall-tilemap_163: 1382611641
+      Room_A-hall-tilemap_164: 1398390171
+      Room_A-hall-tilemap_165: -2103224283
+      Room_A-hall-tilemap_166: 1627349549
+      Room_A-hall-tilemap_167: 673559740
+      Room_A-hall-tilemap_168: -121854355
+      Room_A-hall-tilemap_169: -1708977889
+      Room_A-hall-tilemap_17: 528040152
+      Room_A-hall-tilemap_170: -568307465
+      Room_A-hall-tilemap_171: -1306008823
+      Room_A-hall-tilemap_172: 799239899
+      Room_A-hall-tilemap_173: -1224983077
+      Room_A-hall-tilemap_174: -1000075502
+      Room_A-hall-tilemap_175: 671403235
+      Room_A-hall-tilemap_176: 1744216114
+      Room_A-hall-tilemap_177: -2140663132
+      Room_A-hall-tilemap_178: -1958733412
+      Room_A-hall-tilemap_179: -2062947192
+      Room_A-hall-tilemap_18: -1934933637
+      Room_A-hall-tilemap_180: -276296552
+      Room_A-hall-tilemap_181: -570974245
+      Room_A-hall-tilemap_182: -453986915
+      Room_A-hall-tilemap_183: 727040441
+      Room_A-hall-tilemap_184: -279170215
+      Room_A-hall-tilemap_185: -1689062026
+      Room_A-hall-tilemap_186: -302342870
+      Room_A-hall-tilemap_187: 460456445
+      Room_A-hall-tilemap_188: 1698121834
+      Room_A-hall-tilemap_189: -1102777310
+      Room_A-hall-tilemap_19: -1967362332
+      Room_A-hall-tilemap_190: -810808252
+      Room_A-hall-tilemap_191: -204493529
+      Room_A-hall-tilemap_192: 650500437
+      Room_A-hall-tilemap_193: -422998103
+      Room_A-hall-tilemap_194: 1338304819
+      Room_A-hall-tilemap_195: 952577145
+      Room_A-hall-tilemap_196: 1554879873
+      Room_A-hall-tilemap_197: -1139674909
+      Room_A-hall-tilemap_198: -372099270
+      Room_A-hall-tilemap_199: -1695604903
+      Room_A-hall-tilemap_2: -985953836
+      Room_A-hall-tilemap_20: -1146306368
+      Room_A-hall-tilemap_200: -1406256212
+      Room_A-hall-tilemap_201: 879439773
+      Room_A-hall-tilemap_21: 1636935668
+      Room_A-hall-tilemap_22: -109339325
+      Room_A-hall-tilemap_23: -897454569
+      Room_A-hall-tilemap_24: 1204443031
+      Room_A-hall-tilemap_25: 1696290978
+      Room_A-hall-tilemap_26: -677589025
+      Room_A-hall-tilemap_27: -753742652
+      Room_A-hall-tilemap_28: 1308207807
+      Room_A-hall-tilemap_29: 108017808
+      Room_A-hall-tilemap_3: 528792809
+      Room_A-hall-tilemap_30: 647880760
+      Room_A-hall-tilemap_31: 1529567007
+      Room_A-hall-tilemap_32: 1990120591
+      Room_A-hall-tilemap_33: 977848351
+      Room_A-hall-tilemap_34: 1976690845
+      Room_A-hall-tilemap_35: -867004595
+      Room_A-hall-tilemap_36: 1059701840
+      Room_A-hall-tilemap_37: -1429924987
+      Room_A-hall-tilemap_38: -1339046379
+      Room_A-hall-tilemap_39: 1947387739
+      Room_A-hall-tilemap_4: -1252874817
+      Room_A-hall-tilemap_40: 394899640
+      Room_A-hall-tilemap_41: -1038123015
+      Room_A-hall-tilemap_42: -154984177
+      Room_A-hall-tilemap_43: -1585416934
+      Room_A-hall-tilemap_44: 446826552
+      Room_A-hall-tilemap_45: 1560512523
+      Room_A-hall-tilemap_46: 1448069345
+      Room_A-hall-tilemap_47: -1024111250
+      Room_A-hall-tilemap_48: -1166731431
+      Room_A-hall-tilemap_49: 73498703
+      Room_A-hall-tilemap_5: -2068928490
+      Room_A-hall-tilemap_50: -1387714515
+      Room_A-hall-tilemap_51: 1209718245
+      Room_A-hall-tilemap_52: -770227366
+      Room_A-hall-tilemap_53: -1868228993
+      Room_A-hall-tilemap_54: -2144476582
+      Room_A-hall-tilemap_55: -2018177326
+      Room_A-hall-tilemap_56: -104389543
+      Room_A-hall-tilemap_57: -1855363289
+      Room_A-hall-tilemap_58: 944481298
+      Room_A-hall-tilemap_59: -1640322683
+      Room_A-hall-tilemap_6: -2079429879
+      Room_A-hall-tilemap_60: 1388483738
+      Room_A-hall-tilemap_61: 1986954487
+      Room_A-hall-tilemap_62: -50181840
+      Room_A-hall-tilemap_63: 1725023646
+      Room_A-hall-tilemap_64: -1465805019
+      Room_A-hall-tilemap_65: -728669655
+      Room_A-hall-tilemap_66: -773806344
+      Room_A-hall-tilemap_67: -378823265
+      Room_A-hall-tilemap_68: -1514270879
+      Room_A-hall-tilemap_69: -276947861
+      Room_A-hall-tilemap_7: -1261150974
+      Room_A-hall-tilemap_70: -154010659
+      Room_A-hall-tilemap_71: 910966317
+      Room_A-hall-tilemap_72: -1643796574
+      Room_A-hall-tilemap_73: 2099229516
+      Room_A-hall-tilemap_74: 1582782287
+      Room_A-hall-tilemap_75: 1825080621
+      Room_A-hall-tilemap_76: 181179862
+      Room_A-hall-tilemap_77: 901802207
+      Room_A-hall-tilemap_78: 1934820150
+      Room_A-hall-tilemap_79: 2030696517
+      Room_A-hall-tilemap_8: -80343830
+      Room_A-hall-tilemap_80: -441410889
+      Room_A-hall-tilemap_81: 1728372172
+      Room_A-hall-tilemap_82: -42752366
+      Room_A-hall-tilemap_83: 496914035
+      Room_A-hall-tilemap_84: -311138865
+      Room_A-hall-tilemap_85: -786859949
+      Room_A-hall-tilemap_86: 1667007167
+      Room_A-hall-tilemap_87: -1150640833
+      Room_A-hall-tilemap_88: -1406619331
+      Room_A-hall-tilemap_89: 1770321623
+      Room_A-hall-tilemap_9: -2053630151
+      Room_A-hall-tilemap_90: -443526665
+      Room_A-hall-tilemap_91: 94597947
+      Room_A-hall-tilemap_92: -283109841
+      Room_A-hall-tilemap_93: 96800817
+      Room_A-hall-tilemap_94: -1013484818
+      Room_A-hall-tilemap_95: -384353433
+      Room_A-hall-tilemap_96: 879333463
+      Room_A-hall-tilemap_97: 500921562
+      Room_A-hall-tilemap_98: 1229979449
+      Room_A-hall-tilemap_99: -612225637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
