@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: ad2f1ba32eaa6284aad8f7e2951a2b1c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 43, y: 99, z: 66, w: 45}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_B-tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ccc293b2da2a4aac3757ca158df06
+      internalID: -944225662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05100a743a70844f87a5717cc5f0269
+      internalID: 1309037745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fde50e7cb50be449f92e5ad1e0031f
+      internalID: -801067031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9175164e43c0949a1c4e3151b680ce
+      internalID: 170230045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f2903bdae2944e9d03351c1d9ea05
+      internalID: -718922065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a7457de5be78444b920c808f97d0bb
+      internalID: -382191300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd468785541ce464bbc8e56cd4b04ddc
+      internalID: -1936922280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ad7309fc362a4bb88a170ab2218ad
+      internalID: 1945813228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7882990d03c849b45a46352e0e81a4e0
+      internalID: -836615134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e079e83ce9cbca44b8d51c1ae9a8e4d7
+      internalID: 718224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a79ad4cb425a65478a4ea7532bf82f9
+      internalID: 1572983403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b53286bf62477c468ab12151d016b93
+      internalID: -1807705032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05467579cc5da4bbd2f0f9732504af
+      internalID: -422454685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc19296dd319f240afb54a2c2c073c3
+      internalID: 1496470016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c6ee375bdcf04b9ed0206a7d853c5
+      internalID: 1648206343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba5118abd4a084d977f9163c533e5e
+      internalID: 1367171263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e26a4919e296444d98a8f69289abc35
+      internalID: -2127174798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cadd31926b11949934af0c544da46c
+      internalID: 1086052719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa7063d45db11e40bceaf4453b0b1c8
+      internalID: -733428301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8993fc0e4351c347a4af7ca2545c6a5
+      internalID: 818722992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b500b366a15b4d46b5d467f7ccb90ac
+      internalID: 286370642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee9474273d69d4c9f3599d4f89b7e1
+      internalID: -1409509798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54887dd6d0e67ea46ab46c8b45ce7e27
+      internalID: -2057611866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f664b312370704f8984f2690d6a499
+      internalID: -908033302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62066f1203d02bb4f96e2e379d86712a
+      internalID: -809297572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612719eefb4e31046829502a631483ed
+      internalID: -1011918695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f612a4180ab3604892e8720d5134299
+      internalID: -1995761037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b3a59c8d7e6e74ab8f15f2466171f8
+      internalID: 450454145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8e88bfef8f36459d69078ea7d1373
+      internalID: -394786549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa5c5035b05e9468c5faf30be89510
+      internalID: -1428911859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0339f7d23650e4ebb9bd81409f8a6d
+      internalID: -888717594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4de910d1db26a438e6bd3ae538f43d
+      internalID: 776000944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7913f2ebe4f88c4da3328d2c734301c
+      internalID: -809839544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496d81eccc2cad4a871e724e45b2881
+      internalID: -935919979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f1cab18a7253479478f6a4f774cd4
+      internalID: -1732273535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bd012f5c73774ab7d044095e2fca2
+      internalID: -1048486880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ea19cfbc3f3349b949921c504404b
+      internalID: 1125901561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9371d47e18c6a0442a76c8fb59cdb273
+      internalID: 1178568235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4bbbb760069c43968e8cb93e91dbb
+      internalID: 687017512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197176e84e90d5f43b2314e62b57c4a9
+      internalID: -441876884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480c5a65af32a943ae41f33d6888701
+      internalID: 12824748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be1936ca4658548bba0f2b123e1d48
+      internalID: 593719760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3347a95a3767344bbac14b7a00c341
+      internalID: -1145484690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852af32574910a48b0857b561bca036
+      internalID: -640915200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0763e868e2114393007b488711a63
+      internalID: 1666923271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d977b7fa64e2d47b10a9d829d5a305
+      internalID: -333908206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb2780df968974ea6e7600a90ed4ce
+      internalID: 1208461783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb20253509e4e54ab7813e5fcd1f651
+      internalID: -905849224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e016e39acceb549b9d7db6436d4610
+      internalID: 2000702562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37fa2d821095e48906fae3e0455fe1
+      internalID: 1925246375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11df2c49cfce2434a9fb06e115467799
+      internalID: -1523775462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e56d223977e5ea4784defaa7da1a122
+      internalID: 2016153968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe19835b8ebe124a958c1b4805bf4ff
+      internalID: 713402734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f128a1e14be93040be5f4153683069f
+      internalID: 1322532899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a6409680f7ad4193ab01bf8b28527
+      internalID: -1216898444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a38d612cee304e4199d62d85b33c9e4
+      internalID: 1217541959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b8e43a4a3574459a95e67b2a07153
+      internalID: -1192978389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8a29b6b74b0b4cbe3127e96d2a9c6
+      internalID: 789586345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4d5f6ee8b7e3489bbdb8e86f7b4d6
+      internalID: -1402406664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03180d5d5b9824c8c6e72f7e8a6775
+      internalID: 2133452243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12ad2bf1f426b4da110ac5911d596f
+      internalID: -1409598686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdc6e2ce2c85048980f395af6775c6
+      internalID: 211229139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138c7e992eab7cb4b92c3f04e0c9778b
+      internalID: 1451020774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c3f9a4cfd85e41ab6c50390ab4337
+      internalID: -983188463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe7377a78fc434d9ddc0e2e3bd2fd1
+      internalID: 263990895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c033094a804947a0956d28a6a21ee
+      internalID: -1496434559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6057ce1b2d2c4cab2716cecddafa6
+      internalID: -1856625895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a911fb0800704438a4146bf38eb8d8
+      internalID: 315340253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be08c401bd2cde40b40a9b7ceb85e6a
+      internalID: -1197380799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_B-tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c931ec42291abc447957935c04c0f344
+      internalID: -1038052611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room_B-tilemap_0: -944225662
+      Room_B-tilemap_1: 1309037745
+      Room_B-tilemap_10: 1572983403
+      Room_B-tilemap_11: -1807705032
+      Room_B-tilemap_12: -422454685
+      Room_B-tilemap_13: 1496470016
+      Room_B-tilemap_14: 1648206343
+      Room_B-tilemap_15: 1367171263
+      Room_B-tilemap_16: -2127174798
+      Room_B-tilemap_17: 1086052719
+      Room_B-tilemap_18: -733428301
+      Room_B-tilemap_19: 818722992
+      Room_B-tilemap_2: -801067031
+      Room_B-tilemap_20: 286370642
+      Room_B-tilemap_21: -1409509798
+      Room_B-tilemap_22: -2057611866
+      Room_B-tilemap_23: -908033302
+      Room_B-tilemap_24: -809297572
+      Room_B-tilemap_25: -1011918695
+      Room_B-tilemap_26: -1995761037
+      Room_B-tilemap_27: 450454145
+      Room_B-tilemap_28: -394786549
+      Room_B-tilemap_29: -1428911859
+      Room_B-tilemap_3: 170230045
+      Room_B-tilemap_30: -888717594
+      Room_B-tilemap_31: 776000944
+      Room_B-tilemap_32: -809839544
+      Room_B-tilemap_33: -935919979
+      Room_B-tilemap_34: -1732273535
+      Room_B-tilemap_35: -1048486880
+      Room_B-tilemap_36: 1125901561
+      Room_B-tilemap_37: 1178568235
+      Room_B-tilemap_38: 687017512
+      Room_B-tilemap_39: -441876884
+      Room_B-tilemap_4: -718922065
+      Room_B-tilemap_40: 12824748
+      Room_B-tilemap_41: 593719760
+      Room_B-tilemap_42: -1145484690
+      Room_B-tilemap_43: -640915200
+      Room_B-tilemap_44: 1666923271
+      Room_B-tilemap_45: -333908206
+      Room_B-tilemap_46: 1208461783
+      Room_B-tilemap_47: -905849224
+      Room_B-tilemap_48: 2000702562
+      Room_B-tilemap_49: 1925246375
+      Room_B-tilemap_5: -382191300
+      Room_B-tilemap_50: -1523775462
+      Room_B-tilemap_51: 2016153968
+      Room_B-tilemap_52: 713402734
+      Room_B-tilemap_53: 1322532899
+      Room_B-tilemap_54: -1216898444
+      Room_B-tilemap_55: 1217541959
+      Room_B-tilemap_56: -1192978389
+      Room_B-tilemap_57: 789586345
+      Room_B-tilemap_58: -1402406664
+      Room_B-tilemap_59: 2133452243
+      Room_B-tilemap_6: -1936922280
+      Room_B-tilemap_60: -1409598686
+      Room_B-tilemap_61: 211229139
+      Room_B-tilemap_62: 1451020774
+      Room_B-tilemap_63: -983188463
+      Room_B-tilemap_64: 263990895
+      Room_B-tilemap_65: -1496434559
+      Room_B-tilemap_66: -1856625895
+      Room_B-tilemap_67: 315340253
+      Room_B-tilemap_68: -1197380799
+      Room_B-tilemap_69: -1038052611
+      Room_B-tilemap_7: 1945813228
+      Room_B-tilemap_8: -836615134
+      Room_B-tilemap_9: 718224569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
