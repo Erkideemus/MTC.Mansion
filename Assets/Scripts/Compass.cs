@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class Compass2D : MonoBehaviour
 {
@@ -23,9 +24,12 @@ public class Compass2D : MonoBehaviour
         // Find the nearest cardinal direction
         int closestIndex = GetClosestDirection(angleToTarget);
 
-        // Debug the direction
-        Debug.Log("Target is to the " + cardinalDirections[closestIndex]);
         Pointer.rotation = Quaternion.Euler(0, 0, directionAngles[closestIndex]);
+    }
+
+    private void FixedUpdate()
+    {
+        target = OrderList.instance.order[OrderList.instance.order.Count - 1].gameObject.transform;
     }
 
     int GetClosestDirection(float angle)
